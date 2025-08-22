@@ -1,7 +1,7 @@
 target:
   - url: "README.md"
 
-reinit: "unique-string-to-force-refresh-1"
+reinit: "unique-string-to-force-refresh-2"
 
 include:
   - "src"
